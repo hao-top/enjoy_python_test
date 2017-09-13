@@ -10,5 +10,5 @@ def eat(testt):
         testt.pop(0)
         i-=1
         print(testt)
-
+print(result)
 eat(result)
